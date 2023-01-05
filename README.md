@@ -4,10 +4,10 @@ In this project, the dataset I used was scraped and polished from Wikipedia. It 
 
 I answered the following questions: 
 
-What are the most extreme Super Bowl game outcomes?
-How does point difference affect television viewership for the Super Bowl?
-How have viewership, TV ratings, and advertisement costs for the Super Bowl evolved?
-Who are the most prolific musicians in terms of Super Bowl halftime show performances?
+1) What are the most extreme Super Bowl game outcomes?
+2) How does point difference affect television viewership for the Super Bowl?
+3) How have viewership, TV ratings, and advertisement costs for the Super Bowl evolved?
+4) Who are the most prolific musicians in terms of Super Bowl halftime show performances?
 
 Using the R-package tidyverse,  I imported and manipulated the datasets. To organize the data, I parsed them, simply labeling each column as a specific datatype. To inspect the datasets and check to see if there are any unknown or missing values, I summarized the datasets. 
 
