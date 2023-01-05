@@ -1,4 +1,4 @@
-# Exploring-TV-Viewership-and-Advertising-Costs-for-the-Super-Bowl
+# R-Project-Exploring-TV-Viewership-and-Advertising-Costs-for-the-Super-Bowl
 
 In this project, the dataset I used was scraped and polished from Wikipedia. It is made up of three CSV files, one with game data, one with TV data, and one with halftime musician data for all 52 Super Bowls through 2018.
 
